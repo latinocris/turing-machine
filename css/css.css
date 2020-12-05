@@ -1,0 +1,44 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.card-body {
+    padding: 0;
+}
+.wrap {
+    margin: 0;
+}
+
+
+
+#pasos{
+
+    font-size: large;
+    text-align:center;
+    position: absolute;
+    right: 500px;
+    font-weight: 400;
+
+
+
+}
+#contpasos{
+font-size: large;
+font-weight: 400;
+}
+
+#pasose{
+ font-size: large;
+ font-weight: 400;
+}
+
+
+#state{
+    top: 150px;
+    font-size: large;
+    position: absolute;
+    font-weight: 400;
+}
